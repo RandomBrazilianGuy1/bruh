@@ -1,0 +1,38 @@
+WITHOUT ASTERISK -> Samira's W, Yasuo's W and Braum's E + spell shields
+* -> not blocked by Samira's W, Yasuo's W and Braum's E, but by spell shields + knockdowns (like Poppy's actived W) + Cassio's W
+** -> only by spell shields
+*** -> only by Cassio's W and/or Poppy's active W
+
+Aatrox : **Q(1,2,3), *W (spell shields will block only chain effect, not dmg), ***E
+Ahri: Q, W (low prio to block in any logic) & E
+Akali: Q, E (can be blocked by all these spells), *R
+Alistar: **Q, *W, **E (spell shields will block only stun effect, not dmg)
+Amumu: Q (can be blocked by all these spells), **E, **R
+Anivia: Q, E
+Annie: **P, Q, **W
+Aphelios: Q (moonshot weap, duskwave), (gravitum, infernum, crescendum -> Samira's W, Yasuo's W and Braum's E), (**binding eclipse), **R (prevent to take dmg only)
+Ashe: Q (Samira's, Yasuo's W and Braum's E), **W, E (Yasuo's W), **R
+Aurelion: Q, **W, ***E, **R
+Azir: Q (spell shields + Yasuo's W), *E, **R (full block from spell shield, but partially Samira's W, Yasuo's W and Braum's E)
+
+Bard: Q (spell shield will protect from stun only), ***E
+Blitz: Q, **E (only from knockup, not from dmg), **R
+Brand: **P (2nd passive), Q, **W, **E, R (keep bounce, not dmg)
+Braum: Q, ***W, R
+
+Caitlyn: P (Samira's W, Yasuo's W and Braum's E block both HS + W and E passive's), Q (low prio to block with spell shield logic), **W, E (can be blocked by all these spells), R
+Camille: **W, E (hookshot can be stopped by Cassio, Poppy, Samira's W, Yasuo's W and Braum's E) (wall dive, can be stopped by Cassio, Poppy and spell shield), R (can be stopped by Cassio and spell shield)
+Cassio: **Q, E, **R
+Cho'gath: **Q (block airborne, not slow), **W, E (only Samira's W, Yasuo's W and Braum's E), **R
+Corki: Q, ***W (valkirie), (special delivery -> only Cassio), R
+
+Darius: **Q, **W (not block dmg), **E, *R (spell shield + Cassio)
+Diana: W (will block only Q, not dmg), *E, **R
+Dr. Mundo: Q, **E
+Draven: E, R (spell shield block only R1 or R2)
+
+Ekko: Q (spell shield only block cast or Q back), **W, *E, *R (spell shield + Cassio)
+Elise (human): Q, **W, E
+	  (spider): *Q, ***E
+Evelynn: Q (cast + recast), **W (block only charm and slow), E (whiplash -> spell shield, empowered -> spell shield + Cassio + Poppy), **R (+ Cassio)
+Ezreal: Q (low prio by any spell shield logic, except maybe Sivir at low mana), W (only Samira's W, Yasuo's W and Braum's E), ***E, R
